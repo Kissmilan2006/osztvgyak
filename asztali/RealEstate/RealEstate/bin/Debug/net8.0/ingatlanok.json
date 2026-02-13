@@ -1,0 +1,2009 @@
+[
+  {
+    "id": 1,
+    "description": "Világos, felújított garzonlakás a belváros közelében, jó közlekedéssel.",
+    "rooms": 1,
+    "area": 32,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/1.jpg",
+    "latlong": "47.4931,19.0550",
+    "createAt": "2024-01-05"
+  },
+  {
+    "id": 2,
+    "description": "Csendes utcában található, erkélyes kétszobás lakás parkra néző kilátással.",
+    "rooms": 2,
+    "area": 54,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/2.jpg",
+    "latlong": "47.4975,19.0400",
+    "createAt": "2024-01-06"
+  },
+  {
+    "id": 3,
+    "description": "Felújítandó, tágas polgári lakás magas belmagassággal, befektetésnek is kiváló.",
+    "rooms": 3,
+    "area": 78,
+    "floors": 4,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/3.jpg",
+    "latlong": "47.5010,19.0302",
+    "createAt": "2024-01-07"
+  },
+  {
+    "id": 4,
+    "description": "Újépítésű társasházi lakás gépesített konyhával és teremgarázs beállóval.",
+    "rooms": 2,
+    "area": 48,
+    "floors": 5,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/4.jpg",
+    "latlong": "47.5102,19.0201",
+    "createAt": "2024-01-08"
+  },
+  {
+    "id": 5,
+    "description": "Panelprogramos, szigetelt házban lévő, jó állapotú kétszobás lakás.",
+    "rooms": 2,
+    "area": 52,
+    "floors": 8,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/5.jpg",
+    "latlong": "47.4801,19.0803",
+    "createAt": "2024-01-09"
+  },
+  {
+    "id": 6,
+    "description": "Kertkapcsolatos földszinti lakás saját terasszal, kisgyermekeseknek ideális.",
+    "rooms": 3,
+    "area": 65,
+    "floors": 0,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/6.jpg",
+    "latlong": "47.4750,19.0200",
+    "createAt": "2024-01-10"
+  },
+  {
+    "id": 7,
+    "description": "Belvárosi garzon, befektetésnek és kiadásra is kiváló lehetőség.",
+    "rooms": 1,
+    "area": 28,
+    "floors": 1,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/7.jpg",
+    "latlong": "47.4980,19.0450",
+    "createAt": "2024-01-11"
+  },
+  {
+    "id": 8,
+    "description": "Felújított, erkélyes lakás liftes házban, jó közlekedéssel.",
+    "rooms": 2,
+    "area": 50,
+    "floors": 6,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/8.jpg",
+    "latlong": "47.5022,19.0601",
+    "createAt": "2024-01-12"
+  },
+  {
+    "id": 9,
+    "description": "Tágas nappali + 2 hálószobás lakás, külön konyhával és kamrával.",
+    "rooms": 3,
+    "area": 72,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/9.jpg",
+    "latlong": "47.5200,19.0300",
+    "createAt": "2024-01-13"
+  },
+  {
+    "id": 10,
+    "description": "Felújítandó garzon, jó elosztással, első lakásnak ideális.",
+    "rooms": 1,
+    "area": 30,
+    "floors": 4,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/10.jpg",
+    "latlong": "47.4900,19.0700",
+    "createAt": "2024-01-14"
+  },
+  {
+    "id": 11,
+    "description": "Önálló családi ház nagy kerttel, csendes mellékutcában.",
+    "rooms": 4,
+    "area": 120,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/11.jpg",
+    "latlong": "47.4300,19.0500",
+    "createAt": "2024-01-15"
+  },
+  {
+    "id": 12,
+    "description": "Kétgenerációs családi ház külön bejáratokkal, garázzsal.",
+    "rooms": 6,
+    "area": 180,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/12.jpg",
+    "latlong": "47.4400,19.0200",
+    "createAt": "2024-01-16"
+  },
+  {
+    "id": 13,
+    "description": "Felújított, nappali + 3 hálós családi ház, rendezett kerttel.",
+    "rooms": 4,
+    "area": 135,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/13.jpg",
+    "latlong": "47.4500,19.0100",
+    "createAt": "2024-01-17"
+  },
+  {
+    "id": 14,
+    "description": "Felújítandó családi ház nagy telekkel, gazdálkodásra is alkalmas.",
+    "rooms": 3,
+    "area": 95,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/14.jpg",
+    "latlong": "47.4100,18.9900",
+    "createAt": "2024-01-18"
+  },
+  {
+    "id": 15,
+    "description": "Újépítésű ikerház fél, modern gépészettel és hőszivattyúval.",
+    "rooms": 5,
+    "area": 140,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/15.jpg",
+    "latlong": "47.4600,19.0600",
+    "createAt": "2024-01-19"
+  },
+  {
+    "id": 16,
+    "description": "Teraszos családi ház dupla garázzsal, panorámás kilátással.",
+    "rooms": 5,
+    "area": 160,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/16.jpg",
+    "latlong": "47.4700,19.0300",
+    "createAt": "2024-01-20"
+  },
+  {
+    "id": 17,
+    "description": "Felújított sorházi lakás kis kerttel és fedett terasszal.",
+    "rooms": 3,
+    "area": 90,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/17.jpg",
+    "latlong": "47.4650,19.0400",
+    "createAt": "2024-01-21"
+  },
+  {
+    "id": 18,
+    "description": "Nagy nappalis, amerikai konyhás családi ház, 2 fürdőszobával.",
+    "rooms": 4,
+    "area": 145,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/18.jpg",
+    "latlong": "47.4550,19.0700",
+    "createAt": "2024-01-22"
+  },
+  {
+    "id": 19,
+    "description": "Felújítandó parasztház melléképületekkel, nagy telekkel.",
+    "rooms": 3,
+    "area": 85,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/19.jpg",
+    "latlong": "47.3900,18.9800",
+    "createAt": "2024-01-23"
+  },
+  {
+    "id": 20,
+    "description": "Új építésű, energiatakarékos családi ház napelemmel.",
+    "rooms": 4,
+    "area": 130,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/20.jpg",
+    "latlong": "47.4450,19.0100",
+    "createAt": "2024-01-24"
+  },
+  {
+    "id": 21,
+    "description": "Építési telek családi házas övezetben, minden közmű a telekhatáron.",
+    "rooms": 0,
+    "area": 720,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/21.jpg",
+    "latlong": "47.4200,19.0300",
+    "createAt": "2024-01-25"
+  },
+  {
+    "id": 22,
+    "description": "Saroktelek jó megközelíthetőséggel, ikerház építésére is alkalmas.",
+    "rooms": 0,
+    "area": 650,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/22.jpg",
+    "latlong": "47.4150,19.0400",
+    "createAt": "2024-01-26"
+  },
+  {
+    "id": 23,
+    "description": "Belterületi építési telek, csendes zsákutcában.",
+    "rooms": 0,
+    "area": 540,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/23.jpg",
+    "latlong": "47.4250,19.0200",
+    "createAt": "2024-01-27"
+  },
+  {
+    "id": 24,
+    "description": "Külterületi telek, gazdálkodásra és hobbi kertnek is alkalmas.",
+    "rooms": 0,
+    "area": 2100,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/24.jpg",
+    "latlong": "47.4000,19.0000",
+    "createAt": "2024-01-28"
+  },
+  {
+    "id": 25,
+    "description": "Építési telek új parcellázású lakóparkban.",
+    "rooms": 0,
+    "area": 580,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/25.jpg",
+    "latlong": "47.4300,19.0600",
+    "createAt": "2024-01-29"
+  },
+  {
+    "id": 26,
+    "description": "Ipari telek főút mellett, logisztikai központnak is alkalmas.",
+    "rooms": 0,
+    "area": 5000,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/26.jpg",
+    "latlong": "47.4100,19.0700",
+    "createAt": "2024-01-30"
+  },
+  {
+    "id": 27,
+    "description": "Zártkerti telek kis hétvégi házzal, gyümölcsfákkal.",
+    "rooms": 1,
+    "area": 900,
+    "floors": 1,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/27.jpg",
+    "latlong": "47.3950,19.0100",
+    "createAt": "2024-01-31"
+  },
+  {
+    "id": 28,
+    "description": "Építési telek panorámás kilátással a városra.",
+    "rooms": 0,
+    "area": 760,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/28.jpg",
+    "latlong": "47.4700,19.0100",
+    "createAt": "2024-02-01"
+  },
+  {
+    "id": 29,
+    "description": "Belterületi telek, kész családi ház tervdokumentációval.",
+    "rooms": 0,
+    "area": 600,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/29.jpg",
+    "latlong": "47.4200,18.9900",
+    "createAt": "2024-02-02"
+  },
+  {
+    "id": 30,
+    "description": "Építési telek ikerház építésére alkalmas szélességgel.",
+    "rooms": 0,
+    "area": 630,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/30.jpg",
+    "latlong": "47.4350,19.0500",
+    "createAt": "2024-02-03"
+  },
+
+  {
+    "id": 31,
+    "description": "Világos, erkélyes kétszobás lakás jó állapotban, azonnal költözhető.",
+    "rooms": 2,
+    "area": 55,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/31.jpg",
+    "latlong": "47.4950,19.0500",
+    "createAt": "2024-02-04"
+  },
+  {
+    "id": 32,
+    "description": "Felújított garzon, alacsony rezsivel, fiataloknak ideális.",
+    "rooms": 1,
+    "area": 29,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/32.jpg",
+    "latlong": "47.4985,19.0420",
+    "createAt": "2024-02-05"
+  },
+  {
+    "id": 33,
+    "description": "Tágas nappalis, 2 hálós lakás liftes házban, jó közlekedéssel.",
+    "rooms": 3,
+    "area": 70,
+    "floors": 5,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/33.jpg",
+    "latlong": "47.5030,19.0320",
+    "createAt": "2024-02-06"
+  },
+  {
+    "id": 34,
+    "description": "Panel lakás jó állapotban, rendezett lépcsőházban.",
+    "rooms": 2,
+    "area": 51,
+    "floors": 9,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/34.jpg",
+    "latlong": "47.4820,19.0820",
+    "createAt": "2024-02-07"
+  },
+  {
+    "id": 35,
+    "description": "Felújítandó lakás jó elosztással, befektetésnek is kiváló.",
+    "rooms": 2,
+    "area": 49,
+    "floors": 4,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/35.jpg",
+    "latlong": "47.4910,19.0720",
+    "createAt": "2024-02-08"
+  },
+  {
+    "id": 36,
+    "description": "Kertkapcsolatos földszinti lakás, saját használatú kertrésszel.",
+    "rooms": 2,
+    "area": 60,
+    "floors": 0,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/36.jpg",
+    "latlong": "47.4760,19.0220",
+    "createAt": "2024-02-09"
+  },
+  {
+    "id": 37,
+    "description": "Belvárosi, galériás garzonlakás, rövid távú kiadásra is alkalmas.",
+    "rooms": 1,
+    "area": 27,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/37.jpg",
+    "latlong": "47.4990,19.0460",
+    "createAt": "2024-02-10"
+  },
+  {
+    "id": 38,
+    "description": "Felújított, erkélyes lakás parkos környezetben.",
+    "rooms": 2,
+    "area": 53,
+    "floors": 6,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/38.jpg",
+    "latlong": "47.5040,19.0620",
+    "createAt": "2024-02-11"
+  },
+  {
+    "id": 39,
+    "description": "Nappali + 3 hálószobás lakás, két fürdőszobával.",
+    "rooms": 4,
+    "area": 88,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/39.jpg",
+    "latlong": "47.5210,19.0320",
+    "createAt": "2024-02-12"
+  },
+  {
+    "id": 40,
+    "description": "Újépítésű, erkélyes lakás teremgarázs beállóval.",
+    "rooms": 2,
+    "area": 47,
+    "floors": 7,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/40.jpg",
+    "latlong": "47.5110,19.0220",
+    "createAt": "2024-02-13"
+  },
+
+  {
+    "id": 41,
+    "description": "Családi ház nagy kerttel, gyümölcsfákkal, csendes utcában.",
+    "rooms": 4,
+    "area": 125,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/41.jpg",
+    "latlong": "47.4320,19.0520",
+    "createAt": "2024-02-14"
+  },
+  {
+    "id": 42,
+    "description": "Kétgenerációs családi ház külön mérőórákkal.",
+    "rooms": 6,
+    "area": 190,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/42.jpg",
+    "latlong": "47.4420,19.0220",
+    "createAt": "2024-02-15"
+  },
+  {
+    "id": 43,
+    "description": "Felújított családi ház új tetővel és nyílászárókkal.",
+    "rooms": 4,
+    "area": 138,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/43.jpg",
+    "latlong": "47.4520,19.0120",
+    "createAt": "2024-02-16"
+  },
+  {
+    "id": 44,
+    "description": "Felújítandó családi ház melléképületekkel, nagy telekkel.",
+    "rooms": 3,
+    "area": 100,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/44.jpg",
+    "latlong": "47.4120,18.9920",
+    "createAt": "2024-02-17"
+  },
+  {
+    "id": 45,
+    "description": "Újépítésű ikerház fél, garázzsal és terasszal.",
+    "rooms": 5,
+    "area": 145,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/45.jpg",
+    "latlong": "47.4620,19.0620",
+    "createAt": "2024-02-18"
+  },
+  {
+    "id": 46,
+    "description": "Teraszos családi ház dupla garázzsal, panorámás kilátással.",
+    "rooms": 5,
+    "area": 165,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/46.jpg",
+    "latlong": "47.4720,19.0320",
+    "createAt": "2024-02-19"
+  },
+  {
+    "id": 47,
+    "description": "Sorházi lakás kis kerttel, fedett terasszal.",
+    "rooms": 3,
+    "area": 92,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/47.jpg",
+    "latlong": "47.4670,19.0420",
+    "createAt": "2024-02-20"
+  },
+  {
+    "id": 48,
+    "description": "Amerikai konyhás, nappali + 3 hálós családi ház.",
+    "rooms": 4,
+    "area": 148,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/48.jpg",
+    "latlong": "47.4570,19.0720",
+    "createAt": "2024-02-21"
+  },
+  {
+    "id": 49,
+    "description": "Parasztház melléképületekkel, nagy telekkel, felújítandó állapotban.",
+    "rooms": 3,
+    "area": 87,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/49.jpg",
+    "latlong": "47.3920,18.9820",
+    "createAt": "2024-02-22"
+  },
+  {
+    "id": 50,
+    "description": "Energiatakarékos családi ház napelemmel és hőszivattyúval.",
+    "rooms": 4,
+    "area": 132,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/50.jpg",
+    "latlong": "47.4470,19.0120",
+    "createAt": "2024-02-23"
+  },
+
+  {
+    "id": 51,
+    "description": "Építési telek családi házas övezetben, aszfaltos utcában.",
+    "rooms": 0,
+    "area": 710,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/51.jpg",
+    "latlong": "47.4220,19.0320",
+    "createAt": "2024-02-24"
+  },
+  {
+    "id": 52,
+    "description": "Saroktelek jó megközelíthetőséggel, családi ház építésére.",
+    "rooms": 0,
+    "area": 640,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/52.jpg",
+    "latlong": "47.4170,19.0420",
+    "createAt": "2024-02-25"
+  },
+  {
+    "id": 53,
+    "description": "Belterületi építési telek, csendes zsákutcában, családosoknak ideális.",
+    "rooms": 0,
+    "area": 550,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/53.jpg",
+    "latlong": "47.4270,19.0220",
+    "createAt": "2024-02-26"
+  },
+  {
+    "id": 54,
+    "description": "Külterületi telek, gazdálkodásra, állattartásra is alkalmas.",
+    "rooms": 0,
+    "area": 2300,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/54.jpg",
+    "latlong": "47.4020,19.0020",
+    "createAt": "2024-02-27"
+  },
+  {
+    "id": 55,
+    "description": "Építési telek új lakóparkban, közművekkel ellátva.",
+    "rooms": 0,
+    "area": 590,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/55.jpg",
+    "latlong": "47.4320,19.0620",
+    "createAt": "2024-02-28"
+  },
+  {
+    "id": 56,
+    "description": "Ipari telek főút mellett, raktár vagy csarnok építésére.",
+    "rooms": 0,
+    "area": 5200,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/56.jpg",
+    "latlong": "47.4120,19.0720",
+    "createAt": "2024-02-29"
+  },
+  {
+    "id": 57,
+    "description": "Zártkerti telek kis hétvégi házzal, villannyal.",
+    "rooms": 1,
+    "area": 880,
+    "floors": 1,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/57.jpg",
+    "latlong": "47.3970,19.0120",
+    "createAt": "2024-03-01"
+  },
+  {
+    "id": 58,
+    "description": "Panorámás építési telek domboldalon, modern ház építésére.",
+    "rooms": 0,
+    "area": 780,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/58.jpg",
+    "latlong": "47.4720,19.0120",
+    "createAt": "2024-03-02"
+  },
+  {
+    "id": 59,
+    "description": "Belterületi telek kész családi ház tervekkel, engedélyekkel.",
+    "rooms": 0,
+    "area": 610,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/59.jpg",
+    "latlong": "47.4220,18.9920",
+    "createAt": "2024-03-03"
+  },
+  {
+    "id": 60,
+    "description": "Építési telek ikerház építésére alkalmas szélességgel, jó tájolással.",
+    "rooms": 0,
+    "area": 640,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/60.jpg",
+    "latlong": "47.4370,19.0520",
+    "createAt": "2024-03-04"
+  },
+
+  {
+    "id": 61,
+    "description": "Világos, erkélyes lakás jó állapotban, azonnal költözhető.",
+    "rooms": 2,
+    "area": 56,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/61.jpg",
+    "latlong": "47.4960,19.0510",
+    "createAt": "2024-03-05"
+  },
+  {
+    "id": 62,
+    "description": "Felújított garzon, alacsony fenntartási költségekkel.",
+    "rooms": 1,
+    "area": 30,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/62.jpg",
+    "latlong": "47.4995,19.0430",
+    "createAt": "2024-03-06"
+  },
+  {
+    "id": 63,
+    "description": "Tágas nappalis, 2 hálós lakás liftes házban.",
+    "rooms": 3,
+    "area": 72,
+    "floors": 5,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/63.jpg",
+    "latlong": "47.5040,19.0330",
+    "createAt": "2024-03-07"
+  },
+  {
+    "id": 64,
+    "description": "Panel lakás jó állapotban, rendezett házban.",
+    "rooms": 2,
+    "area": 52,
+    "floors": 8,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/64.jpg",
+    "latlong": "47.4830,19.0830",
+    "createAt": "2024-03-08"
+  },
+  {
+    "id": 65,
+    "description": "Felújítandó lakás jó elosztással, befektetésre is alkalmas.",
+    "rooms": 2,
+    "area": 50,
+    "floors": 4,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/65.jpg",
+    "latlong": "47.4920,19.0730",
+    "createAt": "2024-03-09"
+  },
+  {
+    "id": 66,
+    "description": "Kertkapcsolatos földszinti lakás saját kertrésszel.",
+    "rooms": 2,
+    "area": 61,
+    "floors": 0,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/66.jpg",
+    "latlong": "47.4770,19.0230",
+    "createAt": "2024-03-10"
+  },
+  {
+    "id": 67,
+    "description": "Belvárosi, galériás garzon, befektetésnek kiváló.",
+    "rooms": 1,
+    "area": 28,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/67.jpg",
+    "latlong": "47.5000,19.0470",
+    "createAt": "2024-03-11"
+  },
+  {
+    "id": 68,
+    "description": "Felújított, erkélyes lakás parkos környezetben, jó közlekedéssel.",
+    "rooms": 2,
+    "area": 54,
+    "floors": 6,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/68.jpg",
+    "latlong": "47.5050,19.0630",
+    "createAt": "2024-03-12"
+  },
+  {
+    "id": 69,
+    "description": "Nappali + 3 hálószobás lakás, két fürdővel, családosoknak ideális.",
+    "rooms": 4,
+    "area": 90,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/69.jpg",
+    "latlong": "47.5220,19.0330",
+    "createAt": "2024-03-13"
+  },
+  {
+    "id": 70,
+    "description": "Újépítésű, erkélyes lakás teremgarázs beállóval, liftes házban.",
+    "rooms": 2,
+    "area": 48,
+    "floors": 7,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/70.jpg",
+    "latlong": "47.5120,19.0230",
+    "createAt": "2024-03-14"
+  },
+
+  {
+    "id": 71,
+    "description": "Családi ház nagy kerttel, gyümölcsfákkal, garázzsal.",
+    "rooms": 4,
+    "area": 127,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/71.jpg",
+    "latlong": "47.4330,19.0530",
+    "createAt": "2024-03-15"
+  },
+  {
+    "id": 72,
+    "description": "Kétgenerációs családi ház külön bejáratokkal, nagy telekkel.",
+    "rooms": 6,
+    "area": 192,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/72.jpg",
+    "latlong": "47.4430,19.0230",
+    "createAt": "2024-03-16"
+  },
+  {
+    "id": 73,
+    "description": "Felújított családi ház új tetővel, szigeteléssel.",
+    "rooms": 4,
+    "area": 140,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/73.jpg",
+    "latlong": "47.4530,19.0130",
+    "createAt": "2024-03-17"
+  },
+  {
+    "id": 74,
+    "description": "Felújítandó családi ház melléképületekkel, gazdálkodásra is alkalmas.",
+    "rooms": 3,
+    "area": 102,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/74.jpg",
+    "latlong": "47.4130,18.9930",
+    "createAt": "2024-03-18"
+  },
+  {
+    "id": 75,
+    "description": "Újépítésű ikerház fél, garázzsal, terasszal, modern gépészettel.",
+    "rooms": 5,
+    "area": 147,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/75.jpg",
+    "latlong": "47.4630,19.0630",
+    "createAt": "2024-03-19"
+  },
+  {
+    "id": 76,
+    "description": "Teraszos családi ház dupla garázzsal, panorámás kilátással a városra.",
+    "rooms": 5,
+    "area": 168,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/76.jpg",
+    "latlong": "47.4730,19.0330",
+    "createAt": "2024-03-20"
+  },
+  {
+    "id": 77,
+    "description": "Sorházi lakás kis kerttel, fedett terasszal, csendes utcában.",
+    "rooms": 3,
+    "area": 94,
+    "floors": 2,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/77.jpg",
+    "latlong": "47.4680,19.0430",
+    "createAt": "2024-03-21"
+  },
+  {
+    "id": 78,
+    "description": "Amerikai konyhás, nappali + 3 hálós családi ház, két fürdővel.",
+    "rooms": 4,
+    "area": 150,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/78.jpg",
+    "latlong": "47.4580,19.0730",
+    "createAt": "2024-03-22"
+  },
+  {
+    "id": 79,
+    "description": "Parasztház melléképületekkel, nagy telekkel, felújítandó.",
+    "rooms": 3,
+    "area": 89,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/79.jpg",
+    "latlong": "47.3930,18.9830",
+    "createAt": "2024-03-23"
+  },
+  {
+    "id": 80,
+    "description": "Energiatakarékos családi ház napelemmel, hőszivattyúval, padlófűtéssel.",
+    "rooms": 4,
+    "area": 134,
+    "floors": 1,
+    "category": {
+      "id": 2,
+      "name": "családi ház"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/80.jpg",
+    "latlong": "47.4480,19.0130",
+    "createAt": "2024-03-24"
+  },
+
+  {
+    "id": 81,
+    "description": "Építési telek családi házas övezetben, minden közművel.",
+    "rooms": 0,
+    "area": 720,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/81.jpg",
+    "latlong": "47.4230,19.0330",
+    "createAt": "2024-03-25"
+  },
+  {
+    "id": 82,
+    "description": "Saroktelek jó megközelíthetőséggel, családi ház építésére alkalmas.",
+    "rooms": 0,
+    "area": 650,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/82.jpg",
+    "latlong": "47.4180,19.0430",
+    "createAt": "2024-03-26"
+  },
+  {
+    "id": 83,
+    "description": "Belterületi építési telek, csendes zsákutcában, családosoknak ideális.",
+    "rooms": 0,
+    "area": 560,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/83.jpg",
+    "latlong": "47.4280,19.0230",
+    "createAt": "2024-03-27"
+  },
+  {
+    "id": 84,
+    "description": "Külterületi telek, gazdálkodásra, állattartásra is alkalmas, jó megközelítéssel.",
+    "rooms": 0,
+    "area": 2400,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/84.jpg",
+    "latlong": "47.4030,19.0030",
+    "createAt": "2024-03-28"
+  },
+  {
+    "id": 85,
+    "description": "Építési telek új lakóparkban, közművekkel, aszfaltos utcában.",
+    "rooms": 0,
+    "area": 600,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/85.jpg",
+    "latlong": "47.4330,19.0630",
+    "createAt": "2024-03-29"
+  },
+  {
+    "id": 86,
+    "description": "Ipari telek főút mellett, raktár vagy csarnok építésére alkalmas.",
+    "rooms": 0,
+    "area": 5300,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/86.jpg",
+    "latlong": "47.4130,19.0730",
+    "createAt": "2024-03-30"
+  },
+  {
+    "id": 87,
+    "description": "Zártkerti telek kis hétvégi házzal, villannyal, gyümölcsfákkal.",
+    "rooms": 1,
+    "area": 890,
+    "floors": 1,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/87.jpg",
+    "latlong": "47.3980,19.0130",
+    "createAt": "2024-03-31"
+  },
+  {
+    "id": 88,
+    "description": "Panorámás építési telek domboldalon, modern családi ház építésére.",
+    "rooms": 0,
+    "area": 790,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/88.jpg",
+    "latlong": "47.4730,19.0130",
+    "createAt": "2024-04-01"
+  },
+  {
+    "id": 89,
+    "description": "Belterületi telek kész családi ház tervekkel, engedélyekkel, azonnal építhető.",
+    "rooms": 0,
+    "area": 620,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/89.jpg",
+    "latlong": "47.4230,18.9930",
+    "createAt": "2024-04-02"
+  },
+  {
+    "id": 90,
+    "description": "Építési telek ikerház építésére alkalmas szélességgel, jó tájolással, csendes utcában.",
+    "rooms": 0,
+    "area": 650,
+    "floors": 0,
+    "category": {
+      "id": 3,
+      "name": "telek"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/90.jpg",
+    "latlong": "47.4380,19.0530",
+    "createAt": "2024-04-03"
+  },
+
+  {
+    "id": 91,
+    "description": "Világos, erkélyes kétszobás lakás jó állapotban, azonnal költözhető.",
+    "rooms": 2,
+    "area": 57,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 1,
+      "name": "Kovács Ingatlan Kft.",
+      "phone": "+36 30 111 1111"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/91.jpg",
+    "latlong": "47.4970,19.0520",
+    "createAt": "2024-04-04"
+  },
+  {
+    "id": 92,
+    "description": "Felújított garzon, alacsony fenntartási költségekkel, fiataloknak ideális.",
+    "rooms": 1,
+    "area": 31,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 2,
+      "name": "Nagy és Társa Bt.",
+      "phone": "+36 20 222 2222"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/92.jpg",
+    "latlong": "47.5005,19.0440",
+    "createAt": "2024-04-05"
+  },
+  {
+    "id": 93,
+    "description": "Tágas nappalis, 2 hálós lakás liftes házban, jó közlekedéssel.",
+    "rooms": 3,
+    "area": 74,
+    "floors": 5,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 3,
+      "name": "Budai Ingatlanügynökség",
+      "phone": "+36 70 333 3333"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/93.jpg",
+    "latlong": "47.5050,19.0340",
+    "createAt": "2024-04-06"
+  },
+  {
+    "id": 94,
+    "description": "Panel lakás jó állapotban, rendezett lépcsőházban, parkos környezetben.",
+    "rooms": 2,
+    "area": 53,
+    "floors": 8,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 4,
+      "name": "Modern Otthon Zrt.",
+      "phone": "+36 30 444 4444"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/94.jpg",
+    "latlong": "47.4840,19.0840",
+    "createAt": "2024-04-07"
+  },
+  {
+    "id": 95,
+    "description": "Felújítandó lakás jó elosztással, befektetésre és kiadásra is alkalmas.",
+    "rooms": 2,
+    "area": 51,
+    "floors": 4,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 5,
+      "name": "Lakáskulcs Kft.",
+      "phone": "+36 70 555 5555"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/95.jpg",
+    "latlong": "47.4930,19.0740",
+    "createAt": "2024-04-08"
+  },
+  {
+    "id": 96,
+    "description": "Kertkapcsolatos földszinti lakás saját kertrésszel, csendes utcában.",
+    "rooms": 2,
+    "area": 62,
+    "floors": 0,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 6,
+      "name": "Családi Otthon Ingatlan",
+      "phone": "+36 30 666 6666"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/96.jpg",
+    "latlong": "47.4780,19.0240",
+    "createAt": "2024-04-09"
+  },
+  {
+    "id": 97,
+    "description": "Belvárosi, galériás garzon, befektetésnek kiváló, rövid távú kiadásra is.",
+    "rooms": 1,
+    "area": 29,
+    "floors": 2,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 7,
+      "name": "Otthon Centrum Plusz",
+      "phone": "+36 20 777 7777"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/97.jpg",
+    "latlong": "47.5010,19.0480",
+    "createAt": "2024-04-10"
+  },
+  {
+    "id": 98,
+    "description": "Felújított, erkélyes lakás parkos környezetben, jó közlekedéssel, azonnal költözhető.",
+    "rooms": 2,
+    "area": 55,
+    "floors": 6,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 8,
+      "name": "Prémium Házak Kft.",
+      "phone": "+36 70 888 8888"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/98.jpg",
+    "latlong": "47.5060,19.0640",
+    "createAt": "2024-04-11"
+  },
+  {
+    "id": 99,
+    "description": "Nappali + 3 hálószobás lakás, két fürdővel, családosoknak ideális, liftes házban.",
+    "rooms": 4,
+    "area": 92,
+    "floors": 3,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 9,
+      "name": "Vidéki Otthon Ingatlan",
+      "phone": "+36 30 999 9999"
+    },
+    "freeOfCharge": false,
+    "imageUrl": "https://example.com/images/99.jpg",
+    "latlong": "47.5230,19.0340",
+    "createAt": "2024-04-12"
+  },
+  {
+    "id": 100,
+    "description": "Újépítésű, erkélyes lakás teremgarázs beállóval, modern gépészettel.",
+    "rooms": 2,
+    "area": 49,
+    "floors": 7,
+    "category": {
+      "id": 1,
+      "name": "lakás"
+    },
+    "seller": {
+      "id": 10,
+      "name": "Zöld Otthon Fejlesztő",
+      "phone": "+36 20 101 0101"
+    },
+    "freeOfCharge": true,
+    "imageUrl": "https://example.com/images/100.jpg",
+    "latlong": "47.5130,19.0240",
+    "createAt": "2024-04-13"
+  }
+]

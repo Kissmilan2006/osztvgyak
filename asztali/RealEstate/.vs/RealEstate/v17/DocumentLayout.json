@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\asztali\\realestate\\realestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\asztali\\realestate\\realestate\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\models\\ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\asztali\\realestate\\realestate\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\asztali\\realestate\\realestate\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755FD975-64BD-4725-904F-3C76F3822F4C}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 456,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Program.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Program.cs",
+              "RelativeToolTip": "RealEstate\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:45:23.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Ad.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Models\\Ad.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Ad.cs",
+              "RelativeToolTip": "RealEstate\\Models\\Ad.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:50:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Seller.cs",
+              "RelativeToolTip": "RealEstate\\Models\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:50:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\Models\\Category.cs",
+              "RelativeToolTip": "RealEstate\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:50:18.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
