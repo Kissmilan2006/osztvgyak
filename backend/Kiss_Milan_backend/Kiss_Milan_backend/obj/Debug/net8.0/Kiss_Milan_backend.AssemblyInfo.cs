@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiss_Milan_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e4c7be1ee9d772403a5062ab07f37df444893a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiss_Milan_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiss_Milan_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

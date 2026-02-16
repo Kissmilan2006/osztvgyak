@@ -1,22 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\",
+  "WorkspaceRootPath": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\backend\\kiss_milan_backend\\kiss_milan_backend\\kiss_milan_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\kiss_milan_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\backend\\kiss_milan_backend\\kiss_milan_backend\\models\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\models\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\services\\ingatlanokservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\services\\ingatlanokservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\backend\\kiss_milan_backend\\kiss_milan_backend\\models\\kategoriak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\models\\kategoriak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\interfaces\\iingatlanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\interfaces\\iingatlanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\backend\\kiss_milan_backend\\kiss_milan_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\migrations\\20260216172007_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\migrations\\20260216172007_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\dtos\\addnewingatlandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\dtos\\addnewingatlandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\dtos\\ingatlandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\dtos\\ingatlandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\models\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\models\\ingatlanok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|c:\\users\\milu\\source\\repos\\kiss_milan_backend\\kiss_milan_backend\\kiss_milan_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E671FE51-AD9C-432C-8CAB-97AAA4098180}|Kiss_Milan_backend\\Kiss_Milan_backend.csproj|solutionrelative:kiss_milan_backend\\kiss_milan_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "kategoriak.cs",
-              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\kategoriak.cs",
-              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Models\\kategoriak.cs",
-              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\kategoriak.cs",
-              "RelativeToolTip": "Kiss_Milan_backend\\Models\\kategoriak.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "20260216172007_initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216172007_initial.Designer.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Migrations\\20260216172007_initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216172007_initial.Designer.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Migrations\\20260216172007_initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:12:57.481Z",
+              "WhenOpened": "2026-02-16T21:50:13.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ingatlanok.cs",
-              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\ingatlanok.cs",
-              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Models\\ingatlanok.cs",
-              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\ingatlanok.cs",
-              "RelativeToolTip": "Kiss_Milan_backend\\Models\\ingatlanok.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IngatlanDto.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Dtos\\IngatlanDto.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Dtos\\IngatlanDto.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Dtos\\IngatlanDto.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Dtos\\IngatlanDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:09:19.139Z",
+              "WhenOpened": "2026-02-16T21:44:14.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ingatlanok.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\ingatlanok.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Models\\ingatlanok.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Models\\ingatlanok.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Models\\ingatlanok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:57:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddNewIngatlanDto.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Dtos\\AddNewIngatlanDto.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Dtos\\AddNewIngatlanDto.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Dtos\\AddNewIngatlanDto.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Dtos\\AddNewIngatlanDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:53:25.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Kiss_Milan_backend",
-              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
-              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
-              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
-              "RelativeToolTip": "Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-16T10:05:25.767Z",
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:39:15.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\backend\\Kiss_Milan_backend\\Kiss_Milan_backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Kiss_Milan_backend\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IngatlanokService.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Services\\IngatlanokService.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Services\\IngatlanokService.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Services\\IngatlanokService.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Services\\IngatlanokService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T10:05:03.963Z",
+              "WhenOpened": "2026-02-16T20:28:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIngatlanService.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Interfaces\\IIngatlanService.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Interfaces\\IIngatlanService.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Interfaces\\IIngatlanService.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Interfaces\\IIngatlanService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:12:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260216173122_DefaultHirdetesDatum.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Migrations\\20260216173122_DefaultHirdetesDatum.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:31:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260216172007_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Migrations\\20260216172007_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:20:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\appsettings.json",
+              "RelativeToolTip": "Kiss_Milan_backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T17:19:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Program.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:18:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Kiss_Milan_backend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:15:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kiss_Milan_backend",
+              "DocumentMoniker": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
+              "RelativeDocumentMoniker": "Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
+              "ToolTip": "C:\\Users\\Milu\\source\\repos\\Kiss_Milan_backend\\Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
+              "RelativeToolTip": "Kiss_Milan_backend\\Kiss_Milan_backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-16T17:10:35.696Z",
               "EditorCaption": ""
             }
           ]

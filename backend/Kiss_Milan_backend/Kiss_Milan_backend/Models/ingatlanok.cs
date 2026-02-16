@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Kiss_Milan_backend.Models
 {
@@ -7,13 +8,17 @@ namespace Kiss_Milan_backend.Models
     {
         [Key]
         public int id { get; set; }
-        public required kategoriak kategoraOBJ { get; set; }
-        [ForeignKey("kategoraOBJ")]
-        public int  kategoria {  get; set; }
-        public string leiras { get; set; }
+
+        public int kategoria { get; set; }   // FK
+
+        [ForeignKey("kategoria")]
+        [JsonIgnore]   // ⭐ EZ OLDJA MEG A 500-AT
+        public kategoriak? Kategoria { get; set; }
+
+        public string? leiras { get; set; }
         public DateTime hirdetesDatuma { get; set; }
         public bool tehermentes { get; set; }
         public int ar { get; set; }
-        public string kepUrl { get; set; }
+        public string? kepUrl { get; set; }
     }
 }

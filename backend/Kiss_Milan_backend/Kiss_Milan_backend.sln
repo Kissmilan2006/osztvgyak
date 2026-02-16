@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiss_Milan_backend", "Kiss_Milan_backend\Kiss_Milan_backend.csproj", "{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiss_Milan_backend", "Kiss_Milan_backend\Kiss_Milan_backend.csproj", "{E671FE51-AD9C-432C-8CAB-97AAA4098180}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CAABDC2-6803-4CC9-B584-7B2402A0D60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E671FE51-AD9C-432C-8CAB-97AAA4098180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E671FE51-AD9C-432C-8CAB-97AAA4098180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E671FE51-AD9C-432C-8CAB-97AAA4098180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E671FE51-AD9C-432C-8CAB-97AAA4098180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6631912F-99F6-40FD-94D5-451800C0A6C8}
+		SolutionGuid = {156B71CE-080C-4613-9CFA-A5AD208DD140}
 	EndGlobalSection
 EndGlobal
