@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diak\\.nuget\\packages\\": {},
+    "C:\\Users\\Milu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\RealEstate.csproj",
+      "projectUniqueName": "C:\\Users\\Milu\\Documents\\GitHub\\es2027-s17-r1-118\\osztvgyak\\asztali\\RealEstate\\RealEstate\\RealEstate.csproj",
       "projectName": "RealEstate",
-      "projectPath": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\RealEstate.csproj",
-      "packagesPath": "C:\\Users\\diak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\asztali\\RealEstate\\RealEstate\\obj\\",
+      "projectPath": "C:\\Users\\Milu\\Documents\\GitHub\\es2027-s17-r1-118\\osztvgyak\\asztali\\RealEstate\\RealEstate\\RealEstate.csproj",
+      "packagesPath": "C:\\Users\\Milu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Milu\\Documents\\GitHub\\es2027-s17-r1-118\\osztvgyak\\asztali\\RealEstate\\RealEstate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\diak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Milu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -80,6 +80,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -97,8 +98,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -125,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

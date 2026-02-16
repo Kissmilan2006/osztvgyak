@@ -23,3 +23,12 @@ C:\Users\diak\Documents\GitHub\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug
 C:\Users\diak\Documents\GitHub\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.dll
 C:\Users\diak\Documents\GitHub\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\refint\RealEstate.dll
 C:\Users\diak\Documents\GitHub\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.pdb
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.csproj.AssemblyReference.cache
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfoInputs.cache
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfo.cs
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.sourcelink.json
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.dll
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\refint\RealEstate.dll
+C:\Users\Milu\Documents\GitHub\es2027-s17-r1-118\osztvgyak\asztali\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.pdb
