@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "Kiss_Milan_backend.Controllers.ValuesController",
+    "Method": "Get",
+    "RelativePath": "api/ingatlan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kiss_Milan_backend.Controllers.ValuesController",
+    "Method": "AddNewIngatlan",
+    "RelativePath": "api/ingatlan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingatlansDto",
+        "Type": "Kiss_Milan_backend.Dtos.AddNewIngatlanDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kiss_Milan_backend.Controllers.ValuesController",
+    "Method": "Get",
+    "RelativePath": "api/ingatlan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kiss_Milan_backend.Controllers.ValuesController",
+    "Method": "Delete",
+    "RelativePath": "api/ingatlan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Kiss_Milan_backend.Controllers.ValuesController",
+    "Method": "GetKategoriak",
+    "RelativePath": "api/ingatlan/kategoriak",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

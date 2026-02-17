@@ -43,6 +43,11 @@ namespace Kiss_Milan_backend.Service
                 .ToList();
         }
 
+        public List<kategoriak> GetKategoriaks()
+        {
+           return _context.kategoriaks.ToList();
+        }
+
         public bool RemoveIngatlan(int id)
         {
             var ingatlan = _context.ingatlanoks.FirstOrDefault(i => i.id == id);

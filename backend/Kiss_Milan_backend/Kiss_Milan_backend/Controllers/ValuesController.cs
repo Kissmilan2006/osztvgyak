@@ -12,6 +12,8 @@ namespace Kiss_Milan_backend.Controllers
     public class ValuesController : ControllerBase
     {
         private readonly IIngatlanService _ingatlanService;
+        
+
         public ValuesController(IIngatlanService ingatlanService)
         {
             _ingatlanService = ingatlanService;
@@ -23,6 +25,13 @@ namespace Kiss_Milan_backend.Controllers
             
             return StatusCode(200, ingatlanok);
         }
+        [HttpGet("kategoriak")]
+        public IActionResult GetKategoriak()
+        {
+            var kategoriak = _ingatlanService.GetKategoriaks();
+            return Ok(kategoriak);
+        }
+
 
         [HttpGet("{id}")]
         public IActionResult Get(int id)
