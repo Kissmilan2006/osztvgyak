@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./Hero.css";
 
 function NewAd() {
     const [form, setForm] = useState({
@@ -37,51 +38,49 @@ function NewAd() {
     };
 
     return (
-        <form onSubmit={handleSubmit} style={{ padding: 20, maxWidth: 400 }}>
+        <form onSubmit={handleSubmit} className="container container-fluid d-flex form">
             <h2>Hirdetés feladása</h2>
 
             <div>
-                <label>Kategória</label><br />
+                <label>Ingatlan kategóriája</label><br />
                 <input
                     name="kategoria"
                     value={form.kategoria}
                     onChange={handleChange}
                 />
             </div>
-
             <div>
-                <label>Leírás</label><br />
+                <label>Hirdetés Dátuma</label><br />
                 <input
-                    name="leiras"
-                    value={form.leiras}
+                    readOnly
+                    name="hirdetesDatuma"
+                    value={new Date().toISOString().split("T")[0].replaceAll("-", ".")}
+                    onChange={handleChange}
+                />
+            </div>
+            <div>
+                <label>Ingatlan Leírása</label><br />
+                <textarea name="leiras" rows="4" cols="40" onChange={handleChange}></textarea>
+            </div>
+            <div className="thermentes">
+                <input type="checkbox" name="thermentes" onChange={handleChange} />
+                <label>Tehermentes ingatlan</label>
+
+            </div>
+            <div>
+                <label>Fénykép az ingatlanról</label><br />
+                <input
+                    name="kepUrl"
+                    value={form.kategoria}
                     onChange={handleChange}
                 />
             </div>
 
-            <div>
-                <label>Ár</label><br />
-                <input
-                    name="ar"
-                    type="number"
-                    value={form.ar}
-                    onChange={handleChange}
-                />
-            </div>
 
-            <div>
-                <label>
-                    <input
-                        type="checkbox"
-                        name="tehermentes"
-                        checked={form.tehermentes}
-                        onChange={handleChange}
-                    />
-                    Tehermentes
-                </label>
-            </div>
 
-            <button type="submit">Mentés</button>
-        </form>
+
+            <button type="submit" className="btn btn-primary">Mentés</button>
+        </form >
     );
 }
 

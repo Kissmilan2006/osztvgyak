@@ -48,3 +48,31 @@
 .table {
     box-shadow: -10px -5px 40px rgba(56, 56, 56, 0.645);
 }
+
+.form {
+    font-size: larger;
+    box-sizing: border-box;
+    width: 100%;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+input {
+    height: 3rem;
+    width: 100%;
+}
+
+.thermentes {
+    align-items: center;
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.thermentes input {
+    width: 15px;
+}
