@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\",
+  "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\dto\\addnewcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\dto\\addnewcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\dto\\addnewcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\dto\\addnewcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\interfaces\\icardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Migrations\\20260218132551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kartyagyak\\Migrations\\20260218132551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\milu\\desktop\\osztvgyak\\k\u00E1rtya\\kartyagyak\\kartyagyak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|c:\\users\\diak\\documents\\github\\osztvgyak\\gyak2(kartyak)\\kartyagyak\\kartyagyak\\migrations\\20260218132551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C0E66-6C59-4812-907E-532A1A73E680}|Kartyagyak\\Kartyagyak.csproj|solutionrelative:kartyagyak\\migrations\\20260218132551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,30 +50,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CardController.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Controllers\\CardController.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Controllers\\CardController.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Controllers\\CardController.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Controllers\\CardController.cs",
               "RelativeToolTip": "Kartyagyak\\Controllers\\CardController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAnAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:41:51.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AddNewCardDto.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Dto\\AddNewCardDto.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Dto\\AddNewCardDto.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Dto\\AddNewCardDto.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Dto\\AddNewCardDto.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Dto\\AddNewCardDto.cs",
               "RelativeToolTip": "Kartyagyak\\Dto\\AddNewCardDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:37:32.956Z",
               "EditorCaption": ""
@@ -82,102 +94,98 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CardService.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Services\\CardService.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Services\\CardService.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Services\\CardService.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Services\\CardService.cs",
               "RelativeToolTip": "Kartyagyak\\Services\\CardService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:29:12.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICardService.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Interfaces\\ICardService.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Interfaces\\ICardService.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Interfaces\\ICardService.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Interfaces\\ICardService.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Interfaces\\ICardService.cs",
               "RelativeToolTip": "Kartyagyak\\Interfaces\\ICardService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:27:17.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260218132551_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Migrations\\20260218132551_initial.cs",
-              "RelativeDocumentMoniker": "Kartyagyak\\Migrations\\20260218132551_initial.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Migrations\\20260218132551_initial.cs",
-              "RelativeToolTip": "Kartyagyak\\Migrations\\20260218132551_initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:25:51.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:27:17.611Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "20260218132551_initial.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Migrations\\20260218132551_initial.cs",
+              "RelativeDocumentMoniker": "Kartyagyak\\Migrations\\20260218132551_initial.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Migrations\\20260218132551_initial.cs",
+              "RelativeToolTip": "Kartyagyak\\Migrations\\20260218132551_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:25:51.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\appsettings.json",
               "RelativeDocumentMoniker": "Kartyagyak\\appsettings.json",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\appsettings.json",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\appsettings.json",
               "RelativeToolTip": "Kartyagyak\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABLAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-18T13:22:34.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Program.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Program.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Program.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Program.cs",
               "RelativeToolTip": "Kartyagyak\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:19:10.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Kartyagyak\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:12:02.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:12:02.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Models\\Color.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Models\\Color.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Models\\Color.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Models\\Color.cs",
               "RelativeToolTip": "Kartyagyak\\Models\\Color.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T13:07:45.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T13:07:45.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Models\\Card.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Models\\Card.cs",
               "RelativeDocumentMoniker": "Kartyagyak\\Models\\Card.cs",
-              "ToolTip": "C:\\Users\\Milu\\Desktop\\Osztvgyak\\K\u00E1rtya\\Kartyagyak\\Kartyagyak\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\GitHub\\osztvgyak\\gyak2(kartyak)\\Kartyagyak\\Kartyagyak\\Models\\Card.cs",
               "RelativeToolTip": "Kartyagyak\\Models\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:00:42.242Z",
               "EditorCaption": ""

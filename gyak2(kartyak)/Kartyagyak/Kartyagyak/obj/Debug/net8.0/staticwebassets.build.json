@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "c+aTgYb2eDRuervtWHzi1810fSuXSalv6W9S9ks/aP0=",
-  "Source": "Kartyagyak",
-  "BasePath": "_content/Kartyagyak",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"+hgNyUqovJFG4q8QXAIKuHyNCJpGwmJvTIbstP+9L4U=","Source":"Kartyagyak","BasePath":"_content/Kartyagyak","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
