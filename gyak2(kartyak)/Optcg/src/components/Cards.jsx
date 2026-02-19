@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import { Link } from "react-router-dom";
 
 function Cards() {
 
@@ -6,23 +7,24 @@ function Cards() {
     useEffect(() => {
         fetch("https://localhost:7141/api/card")
             .then(res => res.json())
-            .then(json => setData(json))
+            .then(json => { console.log(json); setData(json);})
             .catch(err => console.log(err))
     }, [])
     return (
         <>
-            <div className="cotainer container-fluid d-flex text-align-center">
+            <Link to="/" className="btn btn-primary">Vissza</Link>
+            <div className="cotainer container-fluid text-align-center cards">
                 {
-                    data.map(item => {
-                        <div key={item.Id}>
-                            <img class="card-img-top" src={item.ImgUrl} alt="Card image cap" />
-                            <div class="card-body">
-                                <h5 class="card-title">{item.Name}</h5>
-                                <p class="card-text">{item.Description}</p>
+                    data.map(item => (
+                        <div key={item.id} className="card">
+                            <img className="card-img-top" src={item.imgUrl} alt="" />
+                            <div className="card-body">
+                                <h5 className="card-title">{item.name}</h5>
+                                <p className="card-text">{item.description}</p>
 
                             </div>
                         </div>
-                    })
+                    ))
                 }
 
             </div>

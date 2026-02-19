@@ -7,6 +7,9 @@ function Home() {
             <Link to="/cards" className="btn btn-primary">
                 Kártyák
             </Link>
+            <Link to="/addcard" className="btn btn-primary">
+                Hozzá adás
+            </Link>
         </>
     )
 }

@@ -14,8 +14,12 @@ namespace Kartyagyak.Data
             modelBuilder.Entity<Color>().HasData(
                new Color { ColorId = 1, Name = "Red" },
                new Color { ColorId = 2, Name = "Blue" },
-               new Color { ColorId = 3, Name = "Green" }
+               new Color { ColorId = 3, Name = "Green" },
+               new Color { ColorId = 4, Name = "Yellow" }
                );
+            modelBuilder.Entity<Card>().HasData(
+                new Card { ColorId = 4, Description = "Awakening of the New Era", ImgUrl = "https://optcgapi.com/media/static/Card_Images/OP05-119.jpg", Name = "Monkey.D.Luffy", Id=1 }
+                );
         }
     }
 }
