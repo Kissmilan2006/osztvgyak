@@ -22,7 +22,7 @@ function AddCard() {
 
     fetch("https://localhost:7141/api/card",{
         method: "POST",
-        header: {"Content-Type":"application/json"},
+        headers: {"Content-Type":"application/json"},
         body: JSON.stringify(form)
     })
     .then(res=>{
@@ -38,22 +38,22 @@ function AddCard() {
             </Link>
 
             <div className="container container-fluid">
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={HandleSubmit}>
   <div className="form-group">
-    <label for="CardName">Name</label>
-    <input type="text" value={form.name} onChange={HandleChange} className="form-control" id="CardName"  placeholder="Enter Name"/>
+    <label htmlFor="CardName">Name</label>
+    <input  name="name" type="text" value={form.name} onChange={HandleChange} className="form-control" id="CardName"  placeholder="Enter Name"/>
   </div>
   <div className="form-group">
-    <label for="CardDescription">Description</label>
-    <input type="text" value={form.description} onChange={HandleChange} className="form-control" id="CardDescription" placeholder="Description"/>
+    <label htmlFor="CardDescription">Description</label>
+    <input  name="description" type="text" value={form.description} onChange={HandleChange} className="form-control" id="CardDescription" placeholder="Description"/>
   </div>
    <div className="form-group">
-    <label for="CardImgUrl">Image Url</label>
-    <input type="text" value={form.imgUrl} onChange={HandleChange} className="form-control" id="CardImgUrl" placeholder="Image Url"/>
+    <label htmlFor="CardImgUrl">Image Url</label>
+    <input name="imgUrl" type="text" value={form.imgUrl} onChange={HandleChange} className="form-control" id="CardImgUrl" placeholder="Image Url"/>
   </div>
    <div className="form-group">
-    <label for="CardColor">Image Url</label>
-    <input type="number" value={form.colorId} onChange={HandleChange} className="form-control" id="CardColor" placeholder="Colro"/>
+    <label htmlFor="CardColor">Image Url</label>
+    <input  name="colorId" type="number" value={form.colorId} onChange={HandleChange} className="form-control" id="CardColor" placeholder="Colro"/>
   </div>
 
   <button type="submit" className="btn btn-primary">Submit</button>
