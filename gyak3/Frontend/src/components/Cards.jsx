@@ -1,6 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import { useEffect, useState } from "react"
 import { Link } from "react-router-dom"
+import "./Cards.css"
 
 function Cards() {
     const [data, SetData] = useState([])
@@ -14,7 +15,7 @@ function Cards() {
     console.log(data)
     return (
         <>
-            <div className="container container-fluid ">
+            <div className="container container-fluid cards">
                 {data.map(item => (
                     <>
                         <div key={item.id} className="card">
